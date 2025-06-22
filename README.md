@@ -3,33 +3,38 @@ EduTales is a multi-agent AI-powered system designed to transform educational to
 
 The system breaks down an educational topic (like Gravity, Photosynthesis, or Electricity) and assigns specialized agents to build components of a story — from understanding the core concept to creating characters, dialogues, and a cohesive plot. The final result is a complete, engaging story tailored to enhance conceptual learning in a fun and memorable way.
 🧩 Key Features:
+ ✅ Multi-Agent Architecture:
 
-    ✅ Multi-Agent Architecture:
+Topic Agent – Extracts and structures the core concept.
 
-        Topic Agent – Extracts and structures the core concept.
+Story Plotter Agent – Builds a storyline that aligns with the learning goals.
 
-        Story Plotter Agent – Builds a storyline that aligns with the learning goals.
+Character Agent – Designs relatable and purposeful characters.
 
-        Character Agent – Designs relatable and purposeful characters.
+Dialogue Agent – Crafts natural conversations that explain the topic.
 
-        Dialogue Agent – Crafts natural conversations that explain the topic.
+Story Teller Agent – Synthesizes all parts into one compelling educational narrative.
 
-        Story Teller Agent – Synthesizes all parts into one compelling educational narrative.
+✨ Educational Storytelling:
 
-    ✨ Educational Storytelling:
+Converts dry or complex subjects into creative, age-appropriate fiction.
 
-        Converts dry or complex subjects into creative, age-appropriate fiction.
+Stories are filled with metaphors, analogies, and teachable moments.
 
-        Stories are filled with metaphors, analogies, and teachable moments.
+🧠 Aligned with Learning Outcomes:
 
-    🧠 Aligned with Learning Outcomes:
+Designed to improve retention through narrative immersion.
 
-        Designed to improve retention through narrative immersion.
+Follows pedagogical best practices.
 
-        Follows pedagogical best practices (e.g., storytelling, scaffolding, simplification).
+🌐 Scalable & Adaptive:
 
-    🌐 Scalable & Adaptive:
+Topics can be easily swapped or customized.
 
-        Topics can be easily swapped or customized.
+Suitable for different age groups and subjects.
 
-        Suitable for different age groups and subjects.
+demo on topic : reduce soil polution
+![image](https://github.com/user-attachments/assets/a11f1293-2b4d-4079-8cb5-76be2813d5d7)
+
+
+
