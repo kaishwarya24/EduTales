@@ -2,6 +2,8 @@
 EduTales is a multi-agent AI-powered system designed to transform educational topics into immersive, character-driven stories. By combining the power of intelligent agents with narrative learning, EduTales makes complex concepts easier to understand, especially for students.
 
 The system breaks down an educational topic (like Gravity, Photosynthesis, or Electricity) and assigns specialized agents to build components of a story — from understanding the core concept to creating characters, dialogues, and a cohesive plot. The final result is a complete, engaging story tailored to enhance conceptual learning in a fun and memorable way.
+
+
 🧩 Key Features:
  ✅ Multi-Agent Architecture:
 
