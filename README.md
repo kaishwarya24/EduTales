@@ -33,6 +33,12 @@ Topics can be easily swapped or customized.
 
 Suitable for different age groups and subjects.
 
+🛠️ EduTales – Tech Stack
+
+    Language Model: OpenAI GPT (gpt-3.5-turbo)
+    Agent Framework: CrewAI
+    Language: Python 3.11+
+
 demo on topic : reduce soil polution
 ![image](https://github.com/user-attachments/assets/a11f1293-2b4d-4079-8cb5-76be2813d5d7)
 
