@@ -37,7 +37,7 @@ Suitable for different age groups and subjects.
 
 🛠️ EduTales – Tech Stack
 
-    Language Model: OpenAI GPT (gpt-3.5-turbo)
+    Language Model: OpenAI GPT (gpt-3.5-turbo & gpt- 4o)
     Agent Framework: CrewAI
     Language: Python 3.11+
 
